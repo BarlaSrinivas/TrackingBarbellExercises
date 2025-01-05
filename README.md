@@ -1,5 +1,5 @@
 # **Wearables to Context-Aware Fitness: Strength Training Tracker**
-
+![Alt Text](./reports)
 ## **Overview**
 This repository hosts the code and resources for building a **context-aware fitness tracker** capable of:
 - Identifying strength training exercises.
