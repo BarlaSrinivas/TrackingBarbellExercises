@@ -1,6 +1,6 @@
 # **Wearables to Context-Aware Fitness: Strength Training Tracker**
 ![Alt Text](./reports/figures/Srini-Cover.png)
-**Medium Blog:** [Wearables to Context-Aware Fitness](https://medium.com/@srinivasbarla2000/wearables-to-context-aware-fitness-building-a-strength-training-tracker-f5b3093bb0cc)
+
 ## **Overview**
 This repository hosts the code and resources for building a **context-aware fitness tracker** capable of:
 - Identifying strength training exercises.
@@ -8,6 +8,8 @@ This repository hosts the code and resources for building a **context-aware fitn
 - Detecting improper form.
 
 The project leverages data from wearable sensors and applies advanced machine learning techniques to deliver insights that mimic the role of a personal trainer.
+
+**Medium Blog:** [Wearables to Context-Aware Fitness](https://medium.com/@srinivasbarla2000/wearables-to-context-aware-fitness-building-a-strength-training-tracker-f5b3093bb0cc)
 
 ---
 
