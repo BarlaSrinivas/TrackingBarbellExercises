@@ -1,5 +1,5 @@
 # **Wearables to Context-Aware Fitness: Strength Training Tracker**
-![Alt Text](./reports)
+![Alt Text](./reports/figures/Srini-Cover.png)
 ## **Overview**
 This repository hosts the code and resources for building a **context-aware fitness tracker** capable of:
 - Identifying strength training exercises.
@@ -13,7 +13,7 @@ The project leverages data from wearable sensors and applies advanced machine le
 ## **Features**
 - **Exercise Classification:** Automatically identifies barbell exercises (Bench Press, Deadlift, Overhead Press, Barbell Row, and Squat).
 - **Repetition Counting:** Accurately counts repetitions for each exercise.
-- **Form Detection:** Detects common errors in exercise execution, ensuring safety and proper technique.
+- **Form Detection:** Detects common errors in exercise execution, ensuring safety and proper technique - ongoing
 - **Real-World Application:** Designed using real workout data collected from wrist-worn Meta Motion sensors.
 
 ---
@@ -24,7 +24,8 @@ This project is a fusion of my two passions: fitness and technology. With a back
 ---
 
 ### **Acknowledgments**
-This project is inspired by the research conducted by **Dave Ebbelaar**. His paper, *"Exploring the Possibilities of Context-Aware Applications for Strength Training"*, provided the foundation for the methodologies and approaches used in this project. You can find more of his work on his GitHub profile: [@daveebbelaar](https://github.com/daveebbelaar).
+This project is inspired by the research conducted by **Dave Ebbelaar**. His paper,
+[*"Exploring the Possibilities of Context-Aware Applications for Strength Training"*](https://secure-res.craft.do/v2/DkCrM8qa8MpqYUv1hZTca1NmEQN8BUD3jgq4E4hUHHYsSECHyPEAMTuaPRwgmvY9KMGbjTiSXxGeD7e4SJpRu6vjQCpDRVbKBT3ywX4ZgDEdyoWBQqxvdJYxVxyQcMqvptguFPNpAqP4UWV7Ub9hpX9iyYUdXqXhQy4foenh4nasYefmgkpSP3MFzrPaz2Ma6jwhTCgzJSMEvfdNeAywK2Mz1JNqaAk8jUwyVp8zpBNxcQzDiwmvvnWdapkVkZmwRTkNbF3iKM5qbMWgnpQa2fhcEzXebG7qq3tC6etT9mErJRZSBrhEXkvDCRhLnsMD9vPzLALSyuBuX9DR6vfKUUs7qEPXArtHkU52wtg2oWfJShZeHcigvgQhbfgXY1o8QAV8W35YeqQYeVZ8SHwZt9TsfkhUEHReUVBYH7hKKdYEjtsJnkkCZ4ncoC9PSdQsSr8BTb9MbvyZTQfEgvBP2HqmtcM45ZLkj/Mini%20Master%20Project%20-%20Exploring%20the%20Possibilities%20of%20Context%20Aware%20Applications%20for%20Strength%20Training.pdf), provided the foundation for the methodologies and approaches used in this project. You can find more of his work on his GitHub profile: [@daveebbelaar](https://github.com/daveebbelaar).
 
 ---
 
@@ -78,7 +79,7 @@ This project is inspired by the research conducted by **Dave Ebbelaar**. His pap
   - Overhead Press
   - Barbell Row
   - Squat
-
+![Alt Text](./reports/figures/Basic-Barbell-Movements.png)
 #### **2. Data Processing**
 - **Outlier Removal:** Detected and removed anomalies from the dataset using Local Outlier Factor (LOF).
 - **Data Smoothing:** Applied low-pass filtering to remove high-frequency noise and ensure smooth signals.
