@@ -1,6 +1,13 @@
 # **Wearables to Context-Aware Fitness: Strength Training Tracker**
 ![Alt Text](./reports/figures/Srini-Cover.png)
 
+---
+
+## **Project Motivation**
+This project is a fusion of my two passions: fitness and technology. With a background in strength training, including winning two consecutive gold medals at university bodybuilding championships and training high-profile clients like South Indian celebrity Vijay Devarakonda, I wanted to create a tool that could help others achieve their fitness goals safely and efficiently.
+
+---
+
 ## **Overview**
 This repository hosts the code and resources for building a **context-aware fitness tracker** capable of:
 - Identifying strength training exercises.
@@ -18,11 +25,6 @@ The project leverages data from wearable sensors and applies advanced machine le
 - **Repetition Counting:** Accurately counts repetitions for each exercise.
 - **Form Detection:** Detects common errors in exercise execution, ensuring safety and proper technique - ongoing
 - **Real-World Application:** Designed using real workout data collected from wrist-worn Meta Motion sensors.
-
----
-
-## **Project Motivation**
-This project is a fusion of my two passions: fitness and technology. With a background in strength training, including winning two consecutive gold medals at university bodybuilding championships and training high-profile clients like South Indian celebrity Vijay Devarakonda, I wanted to create a tool that could help others achieve their fitness goals safely and efficiently.
 
 ---
 
