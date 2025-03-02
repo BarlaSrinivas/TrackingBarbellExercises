@@ -7,7 +7,7 @@
 This project is a fusion of my two passions: fitness and technology. With a background in strength training, including winning two consecutive gold medals at university bodybuilding championships and training high-profile clients like South Indian celebrity Vijay Devarakonda, I wanted to create a tool that could help others achieve their fitness goals safely and efficiently.
 
 **Medium Blog:** [Wearables to Context-Aware Fitness](https://medium.com/@srinivasbarla2000/wearables-to-context-aware-fitness-building-a-strength-training-tracker-f5b3093bb0cc)
-**LinkedIn:** [Context-Aware Fitness Tracker]([https://medium.com/@srinivasbarla2000/wearables-to-context-aware-fitness-building-a-strength-training-tracker-f5b3093bb0cc](https://www.linkedin.com/posts/srinivas-barla_fitnesstech-wearabletechnology-machinelearning-activity-7281882138151415808-3kFT?utm_source=share&utm_medium=member_desktop&rcm=ACoAADskGWABrAAL5X8hRwuvqvxafycmYWx3aT4))
+**LinkedIn:** [Context-Aware Fitness Tracker](https://www.linkedin.com/posts/srinivas-barla_fitnesstech-wearabletechnology-machinelearning-activity-7281882138151415808-3kFT?utm_source=share&utm_medium=member_desktop&rcm=ACoAADskGWABrAAL5X8hRwuvqvxafycmYWx3aT4)
 
 ---
 
